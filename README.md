@@ -1,1 +1,2 @@
 # mydb
+SET DEL GET
