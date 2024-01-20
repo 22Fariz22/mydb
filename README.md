@@ -1,2 +1,1 @@
-# mydb
-SET DEL GET
+#Mydb
